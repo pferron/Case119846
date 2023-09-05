@@ -17,7 +17,7 @@ google-crc32c==1.5.0
 isort==5.11.4
 keyrings.google-artifactregistry-auth==1.1.1
 orjson==3.8.5
-pipreqs==0.4.11
+pipreqs==0.4.13
 pydantic==1.10.4
 pylint==2.15.10
 pytest==7.2.1
